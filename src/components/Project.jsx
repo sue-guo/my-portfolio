@@ -5,7 +5,7 @@ import projects  from "../data/project.json";
 function Project() {
   return (
     <section className={styles.container} id="projects">
-        <h2 className={styles.title}>Project</h2>
+        <h2 className={styles.title}>Projects</h2>
         <div className={styles.projectlist}>
         {
             projects.map((project,index)=>{

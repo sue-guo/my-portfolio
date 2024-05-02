@@ -25,7 +25,7 @@
     display: flex;
     flex-direction: column;
     border-radius: 10px;
-    background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
+    background: linear-gradient(180deg, #3e4d8b 0%, #132a53 100%);
     box-shadow: 0 16px 14px 0 #04152d;
     padding: 18px 24px;
     max-width: 400px;
@@ -74,4 +74,25 @@
     border-radius: 100px;
     background: var(--color-primary);
     padding: 1px 20px;
+  }
+
+  @media screen and (max-width: 830px) {
+    .container{
+      margin-top: 35px;
+    }
+    .title{
+        font-size: 30px;
+    }
+    .project h3{
+      font-size: 20px;
+    }
+    .skill {
+      font-size: 15px;
+    }
+    .description {
+      font-size: 18px;
+    }
+    .link {
+      font-size: 20px;
+    }
   }

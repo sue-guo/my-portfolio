@@ -8,4 +8,10 @@
 
     /*fonts*/
     --font-roboto:roboto;
+
+    --font-size-h2: 35px;
+    --font-size-h3: 25px;
+    --font-size-h2-media: 30px;
+    --font-size-h3-media: 20px;
+    --font-size-p-media: 20px;
 }
