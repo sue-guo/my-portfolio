@@ -4,7 +4,7 @@
         "startDate":"",
         "endDate":"",
         "description":"This is my portfolio website that I created using React. It showcases my projects, skills, and contact information.",
-        "imagePath":"projects/project1.png",
+        "imagePath":"projects/portfolio.png",
         "projectLink":"",
         "source":"https://github.com/sue-guo/my-portfolio",
         "technologies": ["React","HTML","CSS"]
@@ -14,7 +14,7 @@
         "startDate":"",
         "endDate":"",
         "description":"This is a blog website that I created using PHP. It allows users to create, edit, and delete posts.",
-        "imagePath":"projects/project1.png",
+        "imagePath":"projects/myblog.jpg",
         "projectLink":"",
         "source":"https://github.com/sue-guo/web-code.git",
         "technologies": ["PHP","MySQL","HTML","CSS","JavaScript"]
