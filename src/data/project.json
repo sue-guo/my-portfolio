@@ -6,7 +6,7 @@
         "description":"This is my portfolio website that I created using React. It showcases my projects, skills, and contact information.",
         "imagePath":"projects/project1.png",
         "projectLink":"",
-        "source":"https://github.com/sue-guo/web-code.git",
+        "source":"https://github.com/sue-guo/my-portfolio",
         "technologies": ["React","HTML","CSS"]
     },
     { 
