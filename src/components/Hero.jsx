@@ -18,6 +18,7 @@ function Hero() {
         <a
           className={styles.contactBtn}
           href="mailto:guo00135@algonquinlive.com"
+          target="_blank"
         >
           Contact Me
         </a>
