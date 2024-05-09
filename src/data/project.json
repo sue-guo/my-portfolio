@@ -1,5 +1,15 @@
 [
     { 
+        "title":"Facts Calendar",
+        "startDate":"",
+        "endDate":"",
+        "description":"This is a project that I created using react to display Calendar, fetch facts from an API by date, and save or delete a fact in my favorite.",
+        "imagePath":"facts-calendar.png",
+        "projectLink":"",
+        "source":"https://github.com/sue-guo/facts-calendar",
+        "technologies": ["React","HTML","CSS"]
+    },
+    { 
         "title":"My Portfolio",
         "startDate":"",
         "endDate":"",
